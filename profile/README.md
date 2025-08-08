@@ -1,46 +1,68 @@
-# GitHub Pages Universitas Borneo Lestari
+# Universitas Borneo Lestari
 
-[![Website UNBL](https://img.shields.io/badge/Website-UNBL-green)](https://unbl.ac.id/)
+[![Website UNBL](https://img.shields.io/badge/Website-UNBL-green)](https://unbl.ac.id/) [![Email](https://img.shields.io/badge/Email-info%40unbl.ac.id-blue)](mailto:info@unbl.ac.id)
 
-Repository ini berisi sumber untuk situs GitHub Pages resmi Universitas Borneo Lestari. Situs ini menyediakan informasi tentang universitas, program studi, dan kegiatan akademik.
+![Logo Universitas Borneo Lestari](https://unbl.ac.id/wp-content/uploads/2022/01/logo-unbl-web.png)
+
+Selamat datang di profil GitHub resmi Universitas Borneo Lestari (UNBL). Halaman ini berisi informasi tentang universitas kami dan kegiatan akademik yang kami lakukan.
 
 ## Tentang Universitas Borneo Lestari
 
 Universitas Borneo Lestari (UNBL) adalah institusi pendidikan tinggi yang berlokasi di Kalimantan Selatan, Indonesia. UNBL berkomitmen untuk memberikan pendidikan berkualitas tinggi dan berkontribusi pada pembangunan masyarakat melalui pengajaran, penelitian, dan pengabdian masyarakat.
 
-## Mengakses GitHub Pages
+## Program Studi
 
-Situs GitHub Pages dapat diakses melalui URL berikut:
+Universitas Borneo Lestari menawarkan berbagai program studi unggulan:
 
-```
-https://[username].github.io/borles/
-```
+- **Fakultas Kedokteran**
+  - Program Studi Pendidikan Dokter
 
-## Struktur Repository
+- **Fakultas Farmasi**
+  - Program Studi Farmasi
 
-- `index.md`: Halaman utama situs
-- `_config.yml`: Konfigurasi Jekyll untuk GitHub Pages
+- **Fakultas Ilmu Kesehatan**
+  - Program Studi Keperawatan
+  - Program Studi Kebidanan
 
-## Pengembangan Lokal
+- **Fakultas Teknologi dan Rekayasa**
+  - Program Studi Teknik Informatika
 
-Untuk mengembangkan situs secara lokal, Anda dapat menggunakan Jekyll:
+- **Fakultas Ekonomi dan Bisnis**
+  - Program Studi Manajemen
 
-```bash
-# Install Jekyll dan bundler gems
-gem install jekyll bundler
+## Visi & Misi
 
-# Build situs dan jalankan server lokal
-bundle exec jekyll serve
-```
+### Visi
+Menjadi universitas unggul di bidang kesehatan dan lingkungan hidup yang berwawasan global.
 
-## Kontribusi
+### Misi
+1. Menyelenggarakan pendidikan tinggi yang berkualitas
+2. Melaksanakan penelitian yang inovatif
+3. Melaksanakan pengabdian kepada masyarakat
+4. Menjalin kerjasama dengan berbagai pihak untuk meningkatkan kualitas pendidikan
 
-Kontribusi untuk pengembangan situs GitHub Pages ini sangat dihargai. Silakan buat pull request dengan perubahan yang diusulkan.
+## Fasilitas
+
+Universitas Borneo Lestari dilengkapi dengan berbagai fasilitas modern untuk mendukung kegiatan akademik dan non-akademik:
+
+- Perpustakaan Digital
+- Laboratorium Terpadu
+- Pusat Riset Kesehatan
+- Pusat Kegiatan Mahasiswa
+- Asrama Mahasiswa
+- Fasilitas Olahraga
 
 ## Kontak
 
-Untuk informasi lebih lanjut tentang Universitas Borneo Lestari, silakan kunjungi [situs web resmi](https://unbl.ac.id/) atau hubungi kami melalui email di info@unbl.ac.id.
+- **Alamat:** Jl. Simpang Empat, Handil Bakti, Kec. Alalak, Kabupaten Barito Kuala, Kalimantan Selatan 70582
+- **Telepon:** +62 511 4772021
+- **Email:** info@unbl.ac.id
+- **Website:** [https://unbl.ac.id](https://unbl.ac.id)
+- **Media Sosial:**
+  - [Facebook](https://www.facebook.com/universitasborneolestari)
+  - [Instagram](https://www.instagram.com/univ.borneolestari)
+  - [YouTube](https://www.youtube.com/channel/UCmWbHLyGj4qUXYYHIjx3vMQ)
 
 ---
 
-© 2023 Universitas Borneo Lestari. Hak Cipta Dilindungi.
+© 2025 Universitas Borneo Lestari. Hak Cipta Dilindungi.
