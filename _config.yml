@@ -1,0 +1,8 @@
+theme: jekyll-theme-cayman
+title: Universitas Borneo Lestari
+description: Website resmi GitHub Pages Universitas Borneo Lestari
+logo: https://unbl.ac.id/wp-content/uploads/2022/01/logo-unbl-web.png
+show_downloads: false
+google_analytics:
+plugins:
+  - jekyll-seo-tag
